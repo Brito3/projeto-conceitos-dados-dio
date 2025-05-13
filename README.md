@@ -41,9 +41,6 @@ Criar um script interativo onde o usuário digita um conceito ou recurso e receb
 
 3. Digite um dos conceitos ou recursos sugeridos.
 
-## 📸 Prints do projeto em execução
-
-(Adicione uma imagem de execução aqui no diretório `/imagens` e linke abaixo)
 
 ## 🤖 Possibilidades futuras
 
